@@ -170,21 +170,6 @@ Minha metodologia:
 2. **Engenharia de prompts progressiva** – partir do geral para o específico, sempre exigindo citações.
 3. **Validação cruzada** – conferir manualmente se os números gerados batem com a realidade (ex: entrar no site da ClickBus para ver o preço real da passagem).
 4. **Síntese multimídia** – usar os recursos do Estúdio (áudio, vídeo, flashcards) para reforçar o aprendizado.
-
----
-
-## 🎥 Material Extra (Opcional)
-- 📄 [PDF do caderno exportado do NotebookLM](./caderno-mochileiro-nacional.pdf) *(adicione o arquivo se tiver)*
-- 🎧 [Áudio resumo (Deep Dive) – 2 min](./audio-resumo.mp3)
-- 🎬 [Vídeo Explicativo (Whiteboard)](link-do-youtube)
-- 🃏 Flashcards gerados (disponíveis no notebook)
-
----
-
-## 🚀 Como entregar na DIO
-1. Faça o upload deste README.md no seu repositório público.
-2. Copie o link do repositório.
-3. Na plataforma da DIO, cole o link e na descrição escreva algo como:
-> *"Caderno temático sobre planejamento financeiro de viagens nacionais, com curadoria de fontes reais, engenharia de prompts e miniguia completo. Projeto realizado no NotebookLM com foco em acessibilidade e aplicação prática."*
+completo. Projeto realizado no NotebookLM com foco em acessibilidade e aplicação prática."*
 
 Feito isso, é só comemorar! Seu projeto está pronto para decolar. ✈️
